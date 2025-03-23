@@ -1,0 +1,22 @@
+# Local .terraform directories
+.terraform/
+
+
+# Crash log files
+crash.log
+
+# Terraform plan files
+*.tfplan
+*.tfstate
+*.tfstate.backup
+
+# Sensitive files
+*.tfvars.local
+
+# IDE/Editor folders and files
+.vscode/
+.idea/
+*.swp
+
+# Terraform modules cache (if you're using module caches)
+.terraform.lock.hcl
