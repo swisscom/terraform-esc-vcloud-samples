@@ -2,7 +2,7 @@
 # In this terraform file, we define all needed variables, these are referenced in terraform scripts.
 #========================================================================================================
 
-// constants for custom vcd vm (swisscom vm)
+// constants for custom vcd vm (swisscom vm), they MUST NOT be changed
 locals {
   rde_type_vendor  = "swisscom"
   rde_type_nss     = "vm"

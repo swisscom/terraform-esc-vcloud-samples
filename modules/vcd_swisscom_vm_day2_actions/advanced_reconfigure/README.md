@@ -63,6 +63,7 @@ Follow these steps to deploy and manage infrastructure using Terraform:
 - ☁️  [Cloud Director Virtual Machine Resource](https://registry.terraform.io/providers/vmware/vcd/latest/docs/resources/vm)
 - ☁️  [Cloud Director RDE Resource](https://registry.terraform.io/providers/vmware/vcd/latest/docs/resources/rde)
 - ☁️  [Cloud Director RDE Behavior Invocation Data Source](https://registry.terraform.io/providers/vmware/vcd/latest/docs/data-sources/rde_behavior_invocation)
+- ☁️  [Cloud Director RDE Official Documentation](https://techdocs.broadcom.com/us/en/vmware-cis/cloud-director/vmware-cloud-director/10-6/vcd-ext-developer-guide/extensibility-platform-defined-entities-defined-entities-overview.html)
 - 🛠 [Getting Started with Terraform](https://learn.hashicorp.com/terraform/getting-started/install)
 
 

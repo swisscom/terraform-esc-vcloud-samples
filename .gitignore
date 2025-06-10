@@ -12,6 +12,7 @@ crash.log
 
 # Sensitive files
 *.tfvars.local
+*.tfvars.tmp
 
 # IDE/Editor folders and files
 .vscode/

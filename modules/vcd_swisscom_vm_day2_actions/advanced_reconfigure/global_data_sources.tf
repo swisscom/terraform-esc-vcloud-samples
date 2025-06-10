@@ -11,14 +11,14 @@ data "vcd_org_user" "org-user" {
 
 // Terraform data source for rde type
 data "vcd_rde_type" "rde_type" {
-  vendor  = "swisscom"
-  nss     = "vm"
-  version = "1.0.0"
+  vendor  = local.rde_type_vendor
+  nss     = local.rde_type_nss
+  version = local.rde_type_version
 }
 
 // Terraform data source for rde interface
 data "vcd_rde_interface" "rde_interface" {
-  vendor  = "swisscom"
-  nss     = "VcdAdvancedReconfigure"
-  version = "2.0.0"
+  vendor  = local.rde_type_vendor
+  nss     = local.rde_day2_action_advanced_reconfigure_nss
+  version = local.rde_day2_action_version
 }
