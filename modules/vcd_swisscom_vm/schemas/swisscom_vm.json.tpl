@@ -62,6 +62,8 @@
       "fileSystemMount": "Hard Disk 2",
       "storagePolicy": "${storagePolicy}",
       "type": "5"
-    }
+    },
+  "customInputs": [],
+  "providerCustomInputs": []
   ]
 }
