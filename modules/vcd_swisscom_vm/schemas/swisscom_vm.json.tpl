@@ -63,5 +63,7 @@
       "storagePolicy": "${storagePolicy}",
       "type": "5"
     }
-  ]
+  ],
+  "customInputs": [],
+  "providerCustomInputs": []
 }
